@@ -29,7 +29,7 @@ def adding_matz
         }
         }
         
-programmer_hash.unshift(variable)
+programmer_hash.shift(variable)
 
 end
 
