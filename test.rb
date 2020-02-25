@@ -21,7 +21,7 @@ def adding_matz
         }
      }
 
-  variable = 
+  :variable = 
         {
         :yukihiro_matsumoto => {
           :known_for => "Ruby",
@@ -29,7 +29,7 @@ def adding_matz
         }
         }
         
-programmer_hash.unshift("variable")
+programmer_hash.unshift(:variable)
 
 end
 
