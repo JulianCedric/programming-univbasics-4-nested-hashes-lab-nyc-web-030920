@@ -27,7 +27,6 @@ programmer_hash[:yukihiro_matsumoto] =
           :languages => ["LISP", "C"]
         }
         
-
 end
 
 p adding_matz
