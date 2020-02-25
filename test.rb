@@ -33,4 +33,4 @@ programmer_hash.unshift(:variable)
 
 end
 
-p adding_matz
+p adding_matz.keys
