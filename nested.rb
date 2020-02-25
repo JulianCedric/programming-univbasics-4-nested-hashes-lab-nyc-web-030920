@@ -86,6 +86,8 @@ def adding_matz
         }
      }
 
+                                                  variable = {:yukihiro_matsumoto
+
 programmer_hash.unshift(:yukihiro_matsumoto) = 
     {
         :known_for => "Ruby",
