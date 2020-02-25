@@ -30,4 +30,4 @@ programmer_hash[:yukihiro_matsumoto] =
 
 end
 
-p adding_matz.keys
+p adding_matz
