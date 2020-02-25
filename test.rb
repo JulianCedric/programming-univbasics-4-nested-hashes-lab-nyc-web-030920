@@ -21,3 +21,5 @@ def changing_alan
      
      
 end
+
+p changing_alan
