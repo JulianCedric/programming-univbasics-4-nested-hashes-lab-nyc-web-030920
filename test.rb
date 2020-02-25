@@ -21,15 +21,12 @@ def adding_matz
         }
      }
 
-  :variable = 
+programmer_hash[:yukihiro_matsumoto] = 
         {
-        :yukihiro_matsumoto => {
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
         }
-        }
         
-programmer_hash.unshift(:variable)
 
 end
 
